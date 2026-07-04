@@ -49,7 +49,7 @@ linux-user-management/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/linux-user-management.git
+git clone https://github.com/surajpatel/linux-user-management.git
 cd linux-user-management
 ```
 
